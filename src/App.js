@@ -3,6 +3,7 @@ import { React, useState } from "react";
 import { Popover } from "react-tiny-popover";
 import SearchModal from "./SearchModal";
 
+
 function App() {
   const [isPopoverOpen, setIsPopoverOpen] = useState(false);
   const [searchText, setSearchText] = useState('');

@@ -1,0 +1,8 @@
+.sm {
+  width: 400px;
+  height: 300px;
+  border: 1px solid #3f3f3f;
+  z-index: 1;
+  background-color: #fefefe;
+  padding:10px;
+}
